@@ -1,0 +1,20 @@
+/* Regole Reset Pagina */
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+/* Regole Principali */
+
+.container{
+    max-width:1150px;
+    margin: auto;
+}
+
+/* Typography */
+
+ body{
+    font-family: 'Fredoka', sans-serif;
+ }
